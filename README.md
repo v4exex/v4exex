@@ -1,4 +1,11 @@
-## Hi there 👋
+# 박성현
+
+## skill
+
+| skill | level |
+| --- | --- |
+| python | 모름 |
+| javascript | 중 |
 
 <!--
 **v4exex/v4exex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
